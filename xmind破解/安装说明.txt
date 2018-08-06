@@ -1,0 +1,19 @@
+xmind8下载地址：www.xmind.net
+
+安装前提醒：：xmind的安装目录一定不要有任何空格，所以不要安装在Program Files (x86)目录下。
+
+
+按照一下方法即可破解使用
+1、将破解文件XMindCrack.jar复制到安装根目录， 如: D:\XMind
+2、以文本格式打开安装目录中 XMind.ini
+3、在 XMind.ini 最后追加   -javaagent:D:/XMind/XMindCrack.jar
+4、在c:\windows\system32\drivers\etc\hosts最后添加  127.0.0.1 www.xmind.net  输入后，记得有个回车
+5、打开xmind 8  输入序列号，邮箱随便填写
+XAka34A2rVRYJ4XBIU35UZMUEEF64CMMIYZCK2FZZUQNODEKUHGJLFMSLIQMQUCUBXRENLK6NZL37JXP4PZXQFILMQ2RG5R7G4QNDO3PSOEUBOCDRYSSXZGRARV6MGA33TN2AMUBHEL4FXMWYTTJDEINJXUAV4BAYKBDCZQWVF3LWYXSDCXY546U3NBGOI3ZPAP2SO3CSQFNB7VVIY123456789012345
+6、激活
+
+hosts的目录  c:\windows\system32\drivers\etc
+
+
+
+
